@@ -22,13 +22,6 @@ You can also watch a demo video of this project [on my YouTube](https://youtu.be
 
 **Blue Circle** is the predicted car location using the particle filter.
 
-
-## Get the Code
-
-You can download this folder of code [here](https://tugan0329.bitbucket.io/downloads/udacity/car/particle-filters/p8-particle-filter-2d.zip)
-
-
-
 ## Project Setup
 
 This project involves the Simulator which can be downloaded [here](https://github.com/udacity/self-driving-car-sim/releases)
